@@ -8,6 +8,6 @@ for url in $(cat urls | grep -v '#'); do
    echo $url
 	 safe_url=$(python3 get_url.py "$url")
 	 echo "$url" "$safe_url"
-	 python3 shopify.py --csv --elliot-template-1 $url
+	 python3 shopify.py --csv --elliot-template $url
 	 mv products.csv files/$safe_url.csv
 done
