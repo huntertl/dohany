@@ -220,7 +220,7 @@ def format_row_data(TEMPLATE ,product,images,title):
                 pass
         _images = []
         # assuming only 3 options
-        for i in range(1,10):
+        for i in range(1,4):
             if len(product['product']['options']) > i-1 :
                 attributes.append(product['product']['options'][i-1]['name'])
                 if 'variant' in product and 'option'+str(i) in product['variant']:
@@ -304,7 +304,7 @@ def format_row_data(TEMPLATE ,product,images,title):
                 if(len(base_images) < 5):
                     for j in range(5 - len(base_images)):
                         base_images += ['']
-            for j in range(1,10):
+            for j in range(1,4):
                 if len(product['product']['options']) > j-1 :
                     attributes.append(product['product']['options'][j-1]['name'])
                     if 'option'+str(j) in i:
