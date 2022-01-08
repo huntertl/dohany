@@ -710,16 +710,16 @@ MINT,Der wohl beliebteste Snus-Geschmack Minze ist ab sofort in der edelweiss-Li
 ,,ED-7010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,MINT
 ,,ED-7010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
 ,,ED-7010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
-LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
-,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
 Mini Citrus 6mg AW,"ZYN Mini Citrus hat einen köstlichen frischen Geschmack von sonnigen Zitrusfrüchten mit Noten von Orangen und Zitronengras. Die Beutel sind trocken und beginnen, Geschmack und Nikotin zu liefern, sobald sie ein wenig feucht werden.",Mini Citrus 6mg AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/zyn-mini-citrus-6mg-aw.png,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,ZY-2105-1,Unisex,Menge auswählen,1 Dose à CHF 5.90,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-10,Unisex,Menge auswählen,10 Dosen à CHF 5.30,,,,,,,,,,53.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-30,Unisex,Menge auswählen,30 Dosen à CHF 4.90,,,,,,,,,,147.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-120,Unisex,Menge auswählen,120 Dosen à CHF 4.70,,,,,,,,,,564.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-240,Unisex,Menge auswählen,240 Dosen à CHF 4.50,,,,,,,,,,1080.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
+LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
+,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
 Mini Cool Mint 9mg AW,"ZYN Mini Cool Mint ist treffend benannt - es liefert einen kühlenden Mentholgeschmack mit Noten von Pfefferminze. Die Beutel sind trocken und beginnen Geschmack und Nikotin zu liefern, sobald sie ein wenig feucht werden.",Mini Cool Mint 9mg AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/zyn-mini-cool-mint-9mg-aw.png,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,ZY-1205-1,Unisex,Menge auswählen,1 Dose à CHF 5.90,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Cool Mint 9mg AW
 ,,ZY-1205-10,Unisex,Menge auswählen,10 Dosen à CHF 5.30,,,,,,,,,,53.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Cool Mint 9mg AW
@@ -4149,13 +4149,6 @@ Freeze X-Strong AW,"<p>Eisdurchdringender, intensiver Geschmack auf salziger Ges
 ,,VE-4105-30,Unisex,Menge auswählen,30 Dosen à CHF 6.60,,,,,,,,,,198.00,,1,G,1,IN,3,3,3,,,VELO,Freeze X-Strong AW
 ,,VE-4105-120,Unisex,Menge auswählen,120 Dosen à CHF 5.90,,,,,,,,,,708.00,,1,G,1,IN,3,3,3,,,VELO,Freeze X-Strong AW
 ,,VE-4105-240,Unisex,Menge auswählen,240 Dosen à CHF 5.70,,,,,,,,,,1369.00,,1,G,1,IN,3,3,3,,,VELO,Freeze X-Strong AW
-Ice Cool Strong AW,"<p>Die kühle Brise von Minze und Bergkräutern ist wie eine frische Bergbrise.</p>
-<p>EPOK, LYFT oder VELO?! <br>Weitere Informationen dazu findest Du in <a href=""https://snushus.ch/blogs/snusbuch/was-ist-all-white-snus"" target=""_blank"" rel=""noopener noreferrer"">unserem Blog</a>.</p>",Ice Cool Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1628681877533111_velo-ice-cool-strong-aw.jpg,,,,,6.90,,1,G,1,IN,3,3,3,,,,
-,,VE-3605-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
-,,VE-3605-10,Unisex,Menge auswählen,10 Dosen à CHF 6.90,,,,,,,,,,69.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
-,,VE-3605-30,Unisex,Menge auswählen,30 Dosen à CHF 6.60,,,,,,,,,,198.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
-,,VE-3605-120,Unisex,Menge auswählen,120 Dosen à CHF 5.90,,,,,,,,,,708.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
-,,VE-3605-240,Unisex,Menge auswählen,240 Dosen à CHF 5.70,,,,,,,,,,1369.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
 Frosted WDP - Slim,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title"">
@@ -4170,6 +4163,13 @@ Frosted WDP - Slim,"<meta charset=""utf-8"">
 ,,TH-4005-30,Unisex,Menge auswählen,30 Dosen à CHF 4.50,,,,,,,,,,135.00,,1,G,900,IN,3,3,3,,,Thunder,Frosted WDP - Slim
 ,,TH-4005-120,Unisex,Menge auswählen,120 Dosen à CHF 3.90,,,,,,,,,,468.00,,1,G,3600,IN,3,3,3,,,Thunder,Frosted WDP - Slim
 ,,TH-4005-240,Unisex,Menge auswählen,240 Dosen à CHF 3.40,,,,,,,,,,816.00,,1,G,1800,IN,3,3,3,,,Thunder,Frosted WDP - Slim
+Ice Cool Strong AW,"<p>Die kühle Brise von Minze und Bergkräutern ist wie eine frische Bergbrise.</p>
+<p>EPOK, LYFT oder VELO?! <br>Weitere Informationen dazu findest Du in <a href=""https://snushus.ch/blogs/snusbuch/was-ist-all-white-snus"" target=""_blank"" rel=""noopener noreferrer"">unserem Blog</a>.</p>",Ice Cool Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1628681877533111_velo-ice-cool-strong-aw.jpg,,,,,6.90,,1,G,1,IN,3,3,3,,,,
+,,VE-3605-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
+,,VE-3605-10,Unisex,Menge auswählen,10 Dosen à CHF 6.90,,,,,,,,,,69.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
+,,VE-3605-30,Unisex,Menge auswählen,30 Dosen à CHF 6.60,,,,,,,,,,198.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
+,,VE-3605-120,Unisex,Menge auswählen,120 Dosen à CHF 5.90,,,,,,,,,,708.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
+,,VE-3605-240,Unisex,Menge auswählen,240 Dosen à CHF 5.70,,,,,,,,,,1369.00,,1,G,1,IN,3,3,3,,,VELO,Ice Cool Strong AW
 X WDP - Slim,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title"">
@@ -4650,13 +4650,6 @@ Wintergreen Extreme WDP - Slim,"<meta charset=""utf-8"">
 ,,OD-4015-30,Unisex,Menge auswählen,30 Dosen à CHF 4.10,,,,,,,,,,123.00,,1,G,900,IN,3,3,3,,,Oden's,Wintergreen Extreme WDP - Slim
 ,,OD-4015-120,Unisex,Menge auswählen,120 Dosen à CHF 3.70,,,,,,,,,,444.00,,1,G,3600,IN,3,3,3,,,Oden's,Wintergreen Extreme WDP - Slim
 ,,OD-4015-240,Unisex,Menge auswählen,240 Dosen à CHF 3.50,,,,,,,,,,840.00,,1,G,1800,IN,3,3,3,,,Oden's,Wintergreen Extreme WDP - Slim
-Mini Polar Mint Medium AW,"<p>Perfekt kühlende Frische von Menthol mit süssen Tönen. </p>
-<p>EPOK, LYFT oder VELO?! <br>Weitere Informationen dazu findest Du in <a href=""https://snushus.ch/blogs/snusbuch/epok-und-lyft-werden-ersetzt-mit-velo"" data-mce-href=""https://snushus.ch/blogs/snusbuch/epok-und-lyft-werden-ersetzt-mit-velo"" target=""_blank"">unserem Blog</a>.</p>",Mini Polar Mint Medium AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1628681306906090_velo-mini-polar-mint-medium-aw.jpg,,,,,6.90,,1,G,1,IN,3,3,3,,,,
-,,VE-2305-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
-,,VE-2305-10,Unisex,Menge auswählen,10 Dosen à CHF 6.90,,,,,,,,,,69.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
-,,VE-2305-30,Unisex,Menge auswählen,30 Dosen à CHF 6.60,,,,,,,,,,198.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
-,,VE-2305-120,Unisex,Menge auswählen,120 Dosen à CHF 5.90,,,,,,,,,,708.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
-,,VE-2305-240,Unisex,Menge auswählen,240 Dosen à CHF 5.70,,,,,,,,,,1369.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
 Double Mint Extreme WDP - Slim,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title""></div>
@@ -4681,6 +4674,13 @@ Double Mint Extreme WDP - Slim,"<meta charset=""utf-8"">
 ,,OD-5015-30,Unisex,Menge auswählen,30 Dosen à CHF 4.10,,,,,,,,,,123.00,,1,G,900,IN,3,3,3,,,Oden's,Double Mint Extreme WDP - Slim
 ,,OD-5015-120,Unisex,Menge auswählen,120 Dosen à CHF 3.70,,,,,,,,,,444.00,,1,G,3600,IN,3,3,3,,,Oden's,Double Mint Extreme WDP - Slim
 ,,OD-5015-240,Unisex,Menge auswählen,240 Dosen à CHF 3.20,,,,,,,,,,768.00,,1,G,1800,IN,3,3,3,,,Oden's,Double Mint Extreme WDP - Slim
+Mini Polar Mint Medium AW,"<p>Perfekt kühlende Frische von Menthol mit süssen Tönen. </p>
+<p>EPOK, LYFT oder VELO?! <br>Weitere Informationen dazu findest Du in <a href=""https://snushus.ch/blogs/snusbuch/epok-und-lyft-werden-ersetzt-mit-velo"" data-mce-href=""https://snushus.ch/blogs/snusbuch/epok-und-lyft-werden-ersetzt-mit-velo"" target=""_blank"">unserem Blog</a>.</p>",Mini Polar Mint Medium AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1628681306906090_velo-mini-polar-mint-medium-aw.jpg,,,,,6.90,,1,G,1,IN,3,3,3,,,,
+,,VE-2305-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
+,,VE-2305-10,Unisex,Menge auswählen,10 Dosen à CHF 6.90,,,,,,,,,,69.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
+,,VE-2305-30,Unisex,Menge auswählen,30 Dosen à CHF 6.60,,,,,,,,,,198.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
+,,VE-2305-120,Unisex,Menge auswählen,120 Dosen à CHF 5.90,,,,,,,,,,708.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
+,,VE-2305-240,Unisex,Menge auswählen,240 Dosen à CHF 5.70,,,,,,,,,,1369.00,,1,G,1,IN,3,3,3,,,VELO,Mini Polar Mint Medium AW
 Lit Frosted WDP,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title"">
@@ -5682,16 +5682,16 @@ Cold Portion,"<meta charset=""utf-8"">
 ,,OD-1105-30,Unisex,Menge auswählen,30 Dosen à CHF 4.20,,,,,,,,,,126.00,0.00,1,G,1,IN,3,3,3,,,Oden's,Cold Portion
 ,,OD-1105-120,Unisex,Menge auswählen,120 Dosen à CHF 4.00,,,,,,,,,,480.00,0.00,1,G,1,IN,3,3,3,,,Oden's,Cold Portion
 ,,OD-1105-240,Unisex,Menge auswählen,240 Dosen à CHF 3.60,,,,,,,,,,864.00,0.00,1,G,1,IN,3,3,3,,,Oden's,Cold Portion
-LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
-,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
 Mini Citrus 6mg AW,"ZYN Mini Citrus hat einen köstlichen frischen Geschmack von sonnigen Zitrusfrüchten mit Noten von Orangen und Zitronengras. Die Beutel sind trocken und beginnen, Geschmack und Nikotin zu liefern, sobald sie ein wenig feucht werden.",Mini Citrus 6mg AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/zyn-mini-citrus-6mg-aw.png,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,ZY-2105-1,Unisex,Menge auswählen,1 Dose à CHF 5.90,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-10,Unisex,Menge auswählen,10 Dosen à CHF 5.30,,,,,,,,,,53.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-30,Unisex,Menge auswählen,30 Dosen à CHF 4.90,,,,,,,,,,147.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-120,Unisex,Menge auswählen,120 Dosen à CHF 4.70,,,,,,,,,,564.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
 ,,ZY-2105-240,Unisex,Menge auswählen,240 Dosen à CHF 4.50,,,,,,,,,,1080.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Citrus 6mg AW
+LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
+,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
 Mini Cool Mint 9mg AW,"ZYN Mini Cool Mint ist treffend benannt - es liefert einen kühlenden Mentholgeschmack mit Noten von Pfefferminze. Die Beutel sind trocken und beginnen Geschmack und Nikotin zu liefern, sobald sie ein wenig feucht werden.",Mini Cool Mint 9mg AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/zyn-mini-cool-mint-9mg-aw.png,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,ZY-1205-1,Unisex,Menge auswählen,1 Dose à CHF 5.90,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Cool Mint 9mg AW
 ,,ZY-1205-10,Unisex,Menge auswählen,10 Dosen à CHF 5.30,,,,,,,,,,53.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Cool Mint 9mg AW
