@@ -704,16 +704,16 @@ MINT,Der wohl beliebteste Snus-Geschmack Minze ist ab sofort in der edelweiss-Li
 ,,ED-7010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,MINT
 ,,ED-7010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
 ,,ED-7010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
-LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
-,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
 Mini Espressino 6mg AW,"ZYN Mini Espressino ist für diejenigen, die die Kombination von frisch geröstetem Kaffee lieben, aber auch den Geschmack von Schokolade, Nougat und Vanille mögen. Der Charakter ist leicht cremig und etwas dunkler als andere Geschmacksrichtungen.",Mini Espressino 6mg AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/zyn-mini-espressino-6mg-aw.png,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,ZY-3105-1,Unisex,Menge auswählen,1 Dose à CHF 5.90,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-10,Unisex,Menge auswählen,10 Dosen à CHF 5.30,,,,,,,,,,53.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-30,Unisex,Menge auswählen,30 Dosen à CHF 4.90,,,,,,,,,,147.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-120,Unisex,Menge auswählen,120 Dosen à CHF 4.70,,,,,,,,,,564.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-240,Unisex,Menge auswählen,240 Dosen à CHF 4.50,,,,,,,,,,1080.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
+LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
+,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
 Mini Cool Mint 3mg AW,"ZYN Mini Cool Mint ist treffend benannt - es liefert einen kühlenden Mentholgeschmack mit Noten von Pfefferminze. Die Beutel sind trocken und beginnen Geschmack und Nikotin zu liefern, sobald sie ein wenig feucht werden.",Mini Cool Mint 3mg AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/zyn-mini-cool-mint-3mg-aw-new.png,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,ZY-1005-1,Unisex,Menge auswählen,1 Dose à CHF 5.90,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Cool Mint 3mg AW
 ,,ZY-1005-10,Unisex,Menge auswählen,10 Dosen à CHF 5.30,,,,,,,,,,53.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Cool Mint 3mg AW
@@ -5604,10 +5604,6 @@ Vit WP,"<meta charset=""utf-8"">
 ,,OE-1005-30,Unisex,Menge auswählen,30 Dosen à CHF 4.50,,,,,,,,,,135.00,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 ,,OE-1005-120,Unisex,Menge auswählen,120 Dosen à CHF 3.90,,,,,,,,,,468.00,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 ,,OE-1005-240,Unisex,Menge auswählen,240 Dosen à CHF 3.10,,,,,,,,,,744.00,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
-MINT,Der wohl beliebteste Snus-Geschmack Minze ist ab sofort in der edelweiss-Linie des Schweizer Snus Brands edelsnus auch mit tieferem Nikotingehalt vertreten!<br>Der edel Mint All White kommt mit angenehmen 10 mg/g Nikotin und ist damit ein perfekter Alltags-Snus.,MINT,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641501850164034_edel-mint-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
-,,ED-7010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,MINT
-,,ED-7010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
-,,ED-7010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
 Gul WP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
@@ -5622,16 +5618,20 @@ Gul WP,"<meta charset=""utf-8"">
 ,,OE-2005-30,Unisex,Menge auswählen,30 Dosen à CHF 4.50,,,,,,,,,,135.00,0.00,1,G,1,IN,3,3,3,,,ONE,Gul WP
 ,,OE-2005-120,Unisex,Menge auswählen,120 Dosen à CHF 3.90,,,,,,,,,,468.00,0.00,1,G,1,IN,3,3,3,,,ONE,Gul WP
 ,,OE-2005-240,Unisex,Menge auswählen,240 Dosen à CHF 3.10,,,,,,,,,,744.00,0.00,1,G,1,IN,3,3,3,,,ONE,Gul WP
-LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
-,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
-,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+MINT,Der wohl beliebteste Snus-Geschmack Minze ist ab sofort in der edelweiss-Linie des Schweizer Snus Brands edelsnus auch mit tieferem Nikotingehalt vertreten!<br>Der edel Mint All White kommt mit angenehmen 10 mg/g Nikotin und ist damit ein perfekter Alltags-Snus.,MINT,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641501850164034_edel-mint-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
+,,ED-7010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,MINT
+,,ED-7010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
+,,ED-7010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,MINT
 Mini Espressino 6mg AW,"ZYN Mini Espressino ist für diejenigen, die die Kombination von frisch geröstetem Kaffee lieben, aber auch den Geschmack von Schokolade, Nougat und Vanille mögen. Der Charakter ist leicht cremig und etwas dunkler als andere Geschmacksrichtungen.",Mini Espressino 6mg AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/zyn-mini-espressino-6mg-aw.png,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,ZY-3105-1,Unisex,Menge auswählen,1 Dose à CHF 5.90,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-10,Unisex,Menge auswählen,10 Dosen à CHF 5.30,,,,,,,,,,53.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-30,Unisex,Menge auswählen,30 Dosen à CHF 4.90,,,,,,,,,,147.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-120,Unisex,Menge auswählen,120 Dosen à CHF 4.70,,,,,,,,,,564.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
 ,,ZY-3105-240,Unisex,Menge auswählen,240 Dosen à CHF 4.50,,,,,,,,,,1080.00,0.00,1,G,1,IN,3,3,3,,,ZYN,Mini Espressino 6mg AW
+LYCHEE,"Der edel Lychee All White Snus ist Teil der zweiten Generation der edelweiss Linie des Schweizer Snus Herstellers edelsnus. Angenehme Slim Beutel, kombiniert mit einem aufregenden Litschi Aroma mit einem hauch von Rosen und dezentem Nikotingehalt verleihen diesem Snus die perfekte Balance.",LYCHEE,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1641502044563236_edel-lytschee-all-white.jpg,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,,
+,,ED-8010-1,Unisex,Menge auswählen,1 Dose à CHF 6.90,,,,,,,,,,6.90,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-10,Unisex,Menge auswählen,10 Dosen à CHF 5.50,,,,,,,,,,55.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
+,,ED-8010-30,Unisex,Menge auswählen,30 Dosen à CHF 5.20,,,,,,,,,,156.00,0.00,1,G,1,IN,3,3,3,,,edel,LYCHEE
 Brown -80 Degrees OP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
