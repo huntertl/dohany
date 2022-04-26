@@ -2902,19 +2902,6 @@ Ruby Berry AW,"<p>Auf aromatisierter Zellulosebasis und völlig frei von Tabak k
 ,,VE-1105-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO,Ruby Berry AW
 Cool Mint X-Strong WDP,"Der T45 Cool Mint ist ein alltägliches Produkt mit Menthol Geschmack für jeden Snuser, der auf der Suche nach einem Nikotinkick ist. Der T45 Cool Mint Snus vermittelt eine klare, lang anhaltende Frische, während die Aromen auch für eine lange Lebensdauer geschaffen wurden.",Cool Mint X-Strong WDP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/t45-cool-mint-xstrong-white-dry-portion-front.png,,,,,3.90,,1,G,30,IN,3,3,3,,,,
 ,,T4-1005-1,Unisex,Title,Default Title,,,,,,,,,,3.90,,1,G,30,IN,3,3,3,,,T45,Cool Mint X-Strong WDP
-Soldat WP,"<meta charset=""utf-8"">
-<div class=""item flex "">
-<div class=""title""></div>
-</div>
-<div class=""item flex "">
-<div class=""info"">
-<p>Ein Snus mit klarem und frischem Geschmack. Er erhebt sich nicht, ist nicht aufdringlich und beeinträchtigt nicht Ihre Geschmacksknospen. Der Soldat ist da. Sicher, stabil und zur richtigen Zeit am richtigen Ort.</p>
-</div>
-<div class=""info"">
-<div class=""info""></div>
-</div>
-</div>",Soldat WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/soldat-white-portion.png,,,,,3.90,,1,G,30,IN,3,3,3,,,,
-,,SO-1005-1,Unisex,Title,Default Title,,,,,,,,,,3.90,,1,G,30,IN,3,3,3,,,Soldat,Soldat WP
 White Fox Full Charge AW,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title"">
@@ -2929,6 +2916,19 @@ White Fox Full Charge AW,"<meta charset=""utf-8"">
 </div>
 <div class=""item flex ""></div>",White Fox Full Charge AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/white-fox-full-charge-all-white.png,,,,,5.20,,1,G,30,IN,3,3,3,,,,
 ,,WF-2005-1,Unisex,Title,Default Title,,,,,,,,,,5.20,,1,G,30,IN,3,3,3,,,White Fox,White Fox Full Charge AW
+Soldat WP,"<meta charset=""utf-8"">
+<div class=""item flex "">
+<div class=""title""></div>
+</div>
+<div class=""item flex "">
+<div class=""info"">
+<p>Ein Snus mit klarem und frischem Geschmack. Er erhebt sich nicht, ist nicht aufdringlich und beeinträchtigt nicht Ihre Geschmacksknospen. Der Soldat ist da. Sicher, stabil und zur richtigen Zeit am richtigen Ort.</p>
+</div>
+<div class=""info"">
+<div class=""info""></div>
+</div>
+</div>",Soldat WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/soldat-white-portion.png,,,,,3.90,,1,G,30,IN,3,3,3,,,,
+,,SO-1005-1,Unisex,Title,Default Title,,,,,,,,,,3.90,,1,G,30,IN,3,3,3,,,Soldat,Soldat WP
 Black -80 Degrees WDP Slim,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
@@ -3704,8 +3704,6 @@ Super Strong Eucalyptus WP,"<meta charset=""utf-8"">
 ,,GE-7005-1,Unisex,Title,Default Title,,,,,,,,,,7.90,0.00,1,G,35000,IN,3,3,3,,,General,Super Strong Eucalyptus WP
 Extreme WDP 500g Box,"<p>Soldat Extreme für die langen Tage auf dem Feld! Mit seinen unglaublichen 45 mg/g Nikotingehalt, gibt er jedem Snuser einen unverwechselbaren Kick welcher lange anhält. Unter der Lippe fühlen sich die Beutel sehr geschmeidig an und der Minz/Menthol Geschmack kommt angenehm zur Geltung. Jetzt auch in der beliebten 500g Box erhältlich!<br></p>",Extreme WDP 500g Box,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/soldatbox.jpg,,,,,79.20,0.00,1,G,600000,IN,3,3,3,,,,
 ,,SO-3025-1,Unisex,Title,Default Title,,,,,,,,,,79.20,0.00,1,G,600000,IN,3,3,3,,,Soldat,Extreme WDP 500g Box
-Extreme WDP Slim 500g Box,"<p>Soldat Extreme für die langen Tage auf dem Feld! Mit seinen unglaublichen 45 mg/g Nikotingehalt, gibt er jedem Snuser einen unverwechselbaren Kick welcher lange anhält. Unter der Lippe fühlen sich die Beutel sehr geschmeidig an und der Minz/Menthol Geschmack kommt angenehm zur Geltung. Jetzt auch in der beliebten 500g Box erhältlich!<br></p>",Extreme WDP Slim 500g Box,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/soldatslimbox.jpg,,,,,99.00,0.00,1,G,600000,IN,3,3,3,,,,
-,,SO-3125-1,Unisex,Title,Default Title,,,,,,,,,,99.00,0.00,1,G,600000,IN,3,3,3,,,Soldat,Extreme WDP Slim 500g Box
 Lemon WP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title""></div>
@@ -3722,6 +3720,8 @@ Lemon WP,"<meta charset=""utf-8"">
 </div>
 </div>",Lemon WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1636398409799115_odens-lemon-white-portion.jpg,,,,,4.80,0.00,1,G,1,IN,3,3,3,,,,
 ,,OD-8005-1,Unisex,Title,Default Title,,,,,,,,,,4.80,0.00,1,G,1,IN,3,3,3,,,Oden's,Lemon WP
+Extreme WDP Slim 500g Box,"<p>Soldat Extreme für die langen Tage auf dem Feld! Mit seinen unglaublichen 45 mg/g Nikotingehalt, gibt er jedem Snuser einen unverwechselbaren Kick welcher lange anhält. Unter der Lippe fühlen sich die Beutel sehr geschmeidig an und der Minz/Menthol Geschmack kommt angenehm zur Geltung. Jetzt auch in der beliebten 500g Box erhältlich!<br></p>",Extreme WDP Slim 500g Box,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/soldatslimbox.jpg,,,,,99.00,0.00,1,G,600000,IN,3,3,3,,,,
+,,SO-3125-1,Unisex,Title,Default Title,,,,,,,,,,99.00,0.00,1,G,600000,IN,3,3,3,,,Soldat,Extreme WDP Slim 500g Box
 Explorer WP Slim,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
