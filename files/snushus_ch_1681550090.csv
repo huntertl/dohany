@@ -1953,16 +1953,6 @@ Original,"<meta charset=""utf-8"">
 ,,OT-1000-1,Unisex,Menge auswählen,1 Dose à 6.40,,,,,,,,,,6.40,,1,G,30,IN,3,3,3,,,Oliver Twist,Original
 Blå WP,"Die One-Serie von Swedish Match soll die Klassiker ehren: Inspiert von Göteborgs Rapé wurde der ONE Blå White Portion entwickelt. Der Geschmack kommt mit einer Note von Wacholder, wobei der traditionelle Tabakgeschmack nicht zu kurz kommt. Dieser Snus hat eine Stärke von 13 mg/g Nikotin.",Blå WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-bla-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,OE-3005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Blå WP
-Vit WP,"<meta charset=""utf-8"">
-<div class=""item flex"">
-<div class=""title"">
-<div class=""info"">
-<p>Die One-Serie von Swedish Match soll die Klassiker ehren: Der ONE Vit White Portion ist dabei von General inspiert und besticht mit seinem traditionellen Tabakgeschmack. Auch seine 13 mg/g Nikotin weichen dabei vom Konzept nicht ab. Eine tolle Homage!</p>
-</div>
-</div>
-</div>
-<div class=""item flex""></div>",Vit WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-vit-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
-,,OE-1005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 Grön WP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
@@ -1973,6 +1963,16 @@ Grön WP,"<meta charset=""utf-8"">
 </div>
 <div class=""item flex""></div>",Grön WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-gron-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,OE-4005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Grön WP
+Vit WP,"<meta charset=""utf-8"">
+<div class=""item flex"">
+<div class=""title"">
+<div class=""info"">
+<p>Die One-Serie von Swedish Match soll die Klassiker ehren: Der ONE Vit White Portion ist dabei von General inspiert und besticht mit seinem traditionellen Tabakgeschmack. Auch seine 13 mg/g Nikotin weichen dabei vom Konzept nicht ab. Eine tolle Homage!</p>
+</div>
+</div>
+</div>
+<div class=""item flex""></div>",Vit WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-vit-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
+,,OE-1005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 Gul WP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
@@ -3503,8 +3503,6 @@ Wild Lavender AW,"<p>Auf aromatisierter Zellulosebasis und völlig frei von Taba
 ,,VE-1905-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,14,IN,3,3,3,,,VELO (SE),Wild Lavender AW
 Extremely Strong AW,"<span data-mce-fragment=""1"">Der beliebteste Brand der Schweizer kommt nun auch mit einer All-White Variante daher! Der Siberia Extremely Strong AW kommt mit starken 33 mg/g Nikotin.</span>",Extremely Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/Siberia-all-white-regular-sized600.jpg,,,,,6.90,0.00,1,G,15,IN,3,3,3,,,,
 ,,SI-9005-1,Unisex,Title,Default Title,,,,,,,,,,6.90,0.00,1,G,15,IN,3,3,3,,,Siberia,Extremely Strong AW
-Royal Tea AW,"VELO Royal Tea Slim ist ein Nikotinbeutel, der Ihnen ein blumiges und frisches Geschmackserlebnis bietet. Der Geschmack ist gut ausbalanciert durch schwarzen Tee und Bergamotte mit einem süßen Abgang. VELO Royal Tea Slim hat den bekannten leichten, feuchten und schlanken Beutel. Perfekt für den täglichen Gebrauch.",Royal Tea AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-royal-tea-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
-,,VE-1705-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Royal Tea AW
 Cold Extreme WDP Mini,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title""></div>
@@ -3536,6 +3534,8 @@ Fäbodsnus WP,"<meta charset=""utf-8"">
 ,,KU-2005-1,Unisex,Title,Default Title,,,,,,,,,,3.90,,1,G,30,IN,3,3,3,,,Kurbits,Fäbodsnus WP
 Mini Ice Cool Strong AW,"<span data-mce-fragment=""1"">Die Minibeutel haben den gleichen intensiv kühlenden Minzgeschmack, für den VELO Ice Cool bekannt ist: scharfe Pfefferminze mit einem Hauch von Süsse und Minze.</span>",Mini Ice Cool Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-mini-ice-cool-strong-aw.png,,,,,5.20,0.00,1,G,20,IN,3,3,3,,,,
 ,,VE-6115-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,20,IN,3,3,3,,,VELO (SE),Mini Ice Cool Strong AW
+Royal Tea AW,"VELO Royal Tea Slim ist ein Nikotinbeutel, der Ihnen ein blumiges und frisches Geschmackserlebnis bietet. Der Geschmack ist gut ausbalanciert durch schwarzen Tee und Bergamotte mit einem süßen Abgang. VELO Royal Tea Slim hat den bekannten leichten, feuchten und schlanken Beutel. Perfekt für den täglichen Gebrauch.",Royal Tea AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-royal-tea-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
+,,VE-1705-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Royal Tea AW
 Eucalyptus X-Strong AW,"<span data-mce-fragment=""1"">Von der bekannten Marke Velo kommt mit Velo Eucalyptus Slim X-Strong All White Portion eine neue Geschmacksrichtung der populären Marke. Dabei ist nicht nur das Geschmackserlebnis recht intensiv. Auch der Nikotinkick ist mit einem Nikotingehalt 15,6 mg/g eher stark. Die 20 All-White Portionen im Slim-Format sind zudem in einer praktischen Dose verpackt, die auch für unterwegs passt.</span>",Eucalyptus X-Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-eucalyptus-x-strong-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
 ,,VE-1805-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Eucalyptus X-Strong AW
 Extreme WDP 500g Box,"<p>Soldat Extreme für die langen Tage auf dem Feld! Mit seinen unglaublichen 45 mg/g Nikotingehalt, gibt er jedem Snuser einen unverwechselbaren Kick welcher lange anhält. Unter der Lippe fühlen sich die Beutel sehr geschmeidig an und der Minz/Menthol Geschmack kommt angenehm zur Geltung. Jetzt auch in der beliebten 500g Box erhältlich!<br></p>",Extreme WDP 500g Box,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/soldat-black-extreme-white-dry-portion-500g-box.png,,,,,99.00,0.00,1,G,600000,IN,3,3,3,,,,
@@ -3886,16 +3886,6 @@ No.8 Raspberry Liqorice,"<p><span>Après No.8 Himbeer-Lakritz hat eine bewährte
 </div>
 </div>",No.8 Raspberry Liqorice,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/63b4e85f04bb64a309b30e0bd4b52c39.jpg,,,,,5.20,0.00,1,G,26000,IN,3,3,3,,,,
 ,,AP-8005-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,26000,IN,3,3,3,,,Après,No.8 Raspberry Liqorice
-Vit WP,"<meta charset=""utf-8"">
-<div class=""item flex"">
-<div class=""title"">
-<div class=""info"">
-<p>Die One-Serie von Swedish Match soll die Klassiker ehren: Der ONE Vit White Portion ist dabei von General inspiert und besticht mit seinem traditionellen Tabakgeschmack. Auch seine 13 mg/g Nikotin weichen dabei vom Konzept nicht ab. Eine tolle Homage!</p>
-</div>
-</div>
-</div>
-<div class=""item flex""></div>",Vit WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-vit-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
-,,OE-1005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 Grön WP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
@@ -3906,6 +3896,16 @@ Grön WP,"<meta charset=""utf-8"">
 </div>
 <div class=""item flex""></div>",Grön WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-gron-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,OE-4005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Grön WP
+Vit WP,"<meta charset=""utf-8"">
+<div class=""item flex"">
+<div class=""title"">
+<div class=""info"">
+<p>Die One-Serie von Swedish Match soll die Klassiker ehren: Der ONE Vit White Portion ist dabei von General inspiert und besticht mit seinem traditionellen Tabakgeschmack. Auch seine 13 mg/g Nikotin weichen dabei vom Konzept nicht ab. Eine tolle Homage!</p>
+</div>
+</div>
+</div>
+<div class=""item flex""></div>",Vit WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-vit-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
+,,OE-1005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 Red Hot OP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
@@ -4902,10 +4902,10 @@ Caribbean Spirit Strong AW,"<p>Sommer, Sonne, Snus: VELO Caribbean Spirit Strong
 Wild Lavender AW,"<p>Auf aromatisierter Zellulosebasis und völlig frei von Tabak kommen auch die VELO Beutel im Slim Format. Ohne Tabak bedeutet ohne gewöhnungsbedürftigen Tabakgeruch sowie ohne jegliche Tabakschadstoffe - aktuell gibt es weltweit keine weniger schädliche Art, Nikotin zu konsumieren. All White Snus / Nicotine Pouches bietet sich deshalb vor allem Rauchern an, welche mit Rauchentwöhnung wie Nikotinpflaster, Nikotinkaugummi oder Nikotinspray nichts anfangen können.</p>
 <p>VELO Wild Lavendel Limited Edition. Inspiriert von Wildblumenfeldern und voll von der krautigen Rundheit des Lavendels.<br data-mce-fragment=""1""><br data-mce-fragment=""1"">EPOK, LYFT oder VELO? Hier findest Du alle Informationen zu diesem Thema!</p>",Wild Lavender AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-wild-lavender-strong-aw.png,,,,,5.20,0.00,1,G,14,IN,3,3,3,,,,
 ,,VE-1905-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,14,IN,3,3,3,,,VELO (SE),Wild Lavender AW
-Royal Tea AW,"VELO Royal Tea Slim ist ein Nikotinbeutel, der Ihnen ein blumiges und frisches Geschmackserlebnis bietet. Der Geschmack ist gut ausbalanciert durch schwarzen Tee und Bergamotte mit einem süßen Abgang. VELO Royal Tea Slim hat den bekannten leichten, feuchten und schlanken Beutel. Perfekt für den täglichen Gebrauch.",Royal Tea AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-royal-tea-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
-,,VE-1705-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Royal Tea AW
 Mini Ice Cool Strong AW,"<span data-mce-fragment=""1"">Die Minibeutel haben den gleichen intensiv kühlenden Minzgeschmack, für den VELO Ice Cool bekannt ist: scharfe Pfefferminze mit einem Hauch von Süsse und Minze.</span>",Mini Ice Cool Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-mini-ice-cool-strong-aw.png,,,,,5.20,0.00,1,G,20,IN,3,3,3,,,,
 ,,VE-6115-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,20,IN,3,3,3,,,VELO (SE),Mini Ice Cool Strong AW
+Royal Tea AW,"VELO Royal Tea Slim ist ein Nikotinbeutel, der Ihnen ein blumiges und frisches Geschmackserlebnis bietet. Der Geschmack ist gut ausbalanciert durch schwarzen Tee und Bergamotte mit einem süßen Abgang. VELO Royal Tea Slim hat den bekannten leichten, feuchten und schlanken Beutel. Perfekt für den täglichen Gebrauch.",Royal Tea AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-royal-tea-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
+,,VE-1705-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Royal Tea AW
 Eucalyptus X-Strong AW,"<span data-mce-fragment=""1"">Von der bekannten Marke Velo kommt mit Velo Eucalyptus Slim X-Strong All White Portion eine neue Geschmacksrichtung der populären Marke. Dabei ist nicht nur das Geschmackserlebnis recht intensiv. Auch der Nikotinkick ist mit einem Nikotingehalt 15,6 mg/g eher stark. Die 20 All-White Portionen im Slim-Format sind zudem in einer praktischen Dose verpackt, die auch für unterwegs passt.</span>",Eucalyptus X-Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-eucalyptus-x-strong-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
 ,,VE-1805-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Eucalyptus X-Strong AW
 Cool Storm X-Strong AW,"Auf aromatisierter Zellulosebasis und völlig frei von Tabak kommen auch die VELO Beutel im Slim Format. Ohne Tabak bedeutet ohne gewöhnungsbedürftigen Tabakgeruch sowie ohne jegliche Tabakschadstoffe - aktuell gibt es weltweit keine weniger schädliche Art, Nikotin zu konsumieren. All White Snus / Nicotine Pouches bietet sich deshalb vor allem Rauchern an, welche mit Rauchentwöhnung wie Nikotinpflaster, Nikotinkaugummi oder Nikotinspray nichts anfangen können.<br data-mce-fragment=""1""><br data-mce-fragment=""1"">VELO Cool Storm bietet einen starken Mentholgeschmack, ergänzt durch einen Hauch von Pfefferminz und ein sehr starkes Kühlungsgefühl.<br data-mce-fragment=""1""><br data-mce-fragment=""1"">EPOK, LYFT oder VELO? Hier findest Du alle Informationen zu diesem Thema!",Cool Storm X-Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-cool-storm-x-strong-aw.png,,,,,5.20,0.00,1,G,14,IN,3,3,3,,,,
@@ -5022,10 +5022,10 @@ Caribbean Spirit Strong AW,"<p>Sommer, Sonne, Snus: VELO Caribbean Spirit Strong
 Wild Lavender AW,"<p>Auf aromatisierter Zellulosebasis und völlig frei von Tabak kommen auch die VELO Beutel im Slim Format. Ohne Tabak bedeutet ohne gewöhnungsbedürftigen Tabakgeruch sowie ohne jegliche Tabakschadstoffe - aktuell gibt es weltweit keine weniger schädliche Art, Nikotin zu konsumieren. All White Snus / Nicotine Pouches bietet sich deshalb vor allem Rauchern an, welche mit Rauchentwöhnung wie Nikotinpflaster, Nikotinkaugummi oder Nikotinspray nichts anfangen können.</p>
 <p>VELO Wild Lavendel Limited Edition. Inspiriert von Wildblumenfeldern und voll von der krautigen Rundheit des Lavendels.<br data-mce-fragment=""1""><br data-mce-fragment=""1"">EPOK, LYFT oder VELO? Hier findest Du alle Informationen zu diesem Thema!</p>",Wild Lavender AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-wild-lavender-strong-aw.png,,,,,5.20,0.00,1,G,14,IN,3,3,3,,,,
 ,,VE-1905-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,14,IN,3,3,3,,,VELO (SE),Wild Lavender AW
-Royal Tea AW,"VELO Royal Tea Slim ist ein Nikotinbeutel, der Ihnen ein blumiges und frisches Geschmackserlebnis bietet. Der Geschmack ist gut ausbalanciert durch schwarzen Tee und Bergamotte mit einem süßen Abgang. VELO Royal Tea Slim hat den bekannten leichten, feuchten und schlanken Beutel. Perfekt für den täglichen Gebrauch.",Royal Tea AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-royal-tea-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
-,,VE-1705-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Royal Tea AW
 Mini Ice Cool Strong AW,"<span data-mce-fragment=""1"">Die Minibeutel haben den gleichen intensiv kühlenden Minzgeschmack, für den VELO Ice Cool bekannt ist: scharfe Pfefferminze mit einem Hauch von Süsse und Minze.</span>",Mini Ice Cool Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-mini-ice-cool-strong-aw.png,,,,,5.20,0.00,1,G,20,IN,3,3,3,,,,
 ,,VE-6115-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,20,IN,3,3,3,,,VELO (SE),Mini Ice Cool Strong AW
+Royal Tea AW,"VELO Royal Tea Slim ist ein Nikotinbeutel, der Ihnen ein blumiges und frisches Geschmackserlebnis bietet. Der Geschmack ist gut ausbalanciert durch schwarzen Tee und Bergamotte mit einem süßen Abgang. VELO Royal Tea Slim hat den bekannten leichten, feuchten und schlanken Beutel. Perfekt für den täglichen Gebrauch.",Royal Tea AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-royal-tea-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
+,,VE-1705-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Royal Tea AW
 Eucalyptus X-Strong AW,"<span data-mce-fragment=""1"">Von der bekannten Marke Velo kommt mit Velo Eucalyptus Slim X-Strong All White Portion eine neue Geschmacksrichtung der populären Marke. Dabei ist nicht nur das Geschmackserlebnis recht intensiv. Auch der Nikotinkick ist mit einem Nikotingehalt 15,6 mg/g eher stark. Die 20 All-White Portionen im Slim-Format sind zudem in einer praktischen Dose verpackt, die auch für unterwegs passt.</span>",Eucalyptus X-Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-eucalyptus-x-strong-aw.png,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,,
 ,,VE-1805-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,30,IN,3,3,3,,,VELO (SE),Eucalyptus X-Strong AW
 Cool Storm X-Strong AW,"Auf aromatisierter Zellulosebasis und völlig frei von Tabak kommen auch die VELO Beutel im Slim Format. Ohne Tabak bedeutet ohne gewöhnungsbedürftigen Tabakgeruch sowie ohne jegliche Tabakschadstoffe - aktuell gibt es weltweit keine weniger schädliche Art, Nikotin zu konsumieren. All White Snus / Nicotine Pouches bietet sich deshalb vor allem Rauchern an, welche mit Rauchentwöhnung wie Nikotinpflaster, Nikotinkaugummi oder Nikotinspray nichts anfangen können.<br data-mce-fragment=""1""><br data-mce-fragment=""1"">VELO Cool Storm bietet einen starken Mentholgeschmack, ergänzt durch einen Hauch von Pfefferminz und ein sehr starkes Kühlungsgefühl.<br data-mce-fragment=""1""><br data-mce-fragment=""1"">EPOK, LYFT oder VELO? Hier findest Du alle Informationen zu diesem Thema!",Cool Storm X-Strong AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/velo-cool-storm-x-strong-aw.png,,,,,5.20,0.00,1,G,14,IN,3,3,3,,,,
@@ -5874,16 +5874,6 @@ Explorer WP Slim,"<meta charset=""utf-8"">
 ,,GE-6005-1,Unisex,Title,Default Title,,,,,,,,,,7.90,0.00,1,G,35000,IN,3,3,3,,,General,Explorer WP Slim
 Raw WP Slim,"<p>Bei diesem Snus hat sich die Leaf Bakery ganz an den traditionsreichen Rezepturen aus dem hohen Norden orientiert. Der Leaf Bakery ist es gelungen, einen hochqualitativen und traditionellen Snus mit hervorragendem Geschmack herzustellen. Wenn Du auf der Suche nach einer klassischen Snus-Variante bist, dann ist der TRIFT Raw genau das richtige für Dich. Trift Raw ist mit Sicherheit der beste Snus aus heimischer Produktion!<br></p>",Raw WP Slim,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1639499405723941_trift-raw-white-portion-slim.jpg,,,,,7.90,6.90,1,G,1,IN,3,3,3,,,,
 ,,TR-1005-1,Unisex,Title,Default Title,,,,,,,,,,7.90,6.90,1,G,1,IN,3,3,3,,,TRIFT,Raw WP Slim
-Vit WP,"<meta charset=""utf-8"">
-<div class=""item flex"">
-<div class=""title"">
-<div class=""info"">
-<p>Die One-Serie von Swedish Match soll die Klassiker ehren: Der ONE Vit White Portion ist dabei von General inspiert und besticht mit seinem traditionellen Tabakgeschmack. Auch seine 13 mg/g Nikotin weichen dabei vom Konzept nicht ab. Eine tolle Homage!</p>
-</div>
-</div>
-</div>
-<div class=""item flex""></div>",Vit WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-vit-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
-,,OE-1005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 Grön WP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
@@ -5894,6 +5884,16 @@ Grön WP,"<meta charset=""utf-8"">
 </div>
 <div class=""item flex""></div>",Grön WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-gron-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
 ,,OE-4005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Grön WP
+Vit WP,"<meta charset=""utf-8"">
+<div class=""item flex"">
+<div class=""title"">
+<div class=""info"">
+<p>Die One-Serie von Swedish Match soll die Klassiker ehren: Der ONE Vit White Portion ist dabei von General inspiert und besticht mit seinem traditionellen Tabakgeschmack. Auch seine 13 mg/g Nikotin weichen dabei vom Konzept nicht ab. Eine tolle Homage!</p>
+</div>
+</div>
+</div>
+<div class=""item flex""></div>",Vit WP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/one-vit-white-portion.png,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,,
+,,OE-1005-1,Unisex,Title,Default Title,,,,,,,,,,4.90,0.00,1,G,1,IN,3,3,3,,,ONE,Vit WP
 Gul WP,"<meta charset=""utf-8"">
 <div class=""item flex"">
 <div class=""title"">
