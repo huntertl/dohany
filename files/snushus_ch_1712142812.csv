@@ -3108,8 +3108,6 @@ X WDP,"<meta charset=""utf-8"">
 </div>
 <div class=""item flex ""></div>",X WDP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/offroad-arctic-xplorer-white-dry-portion.png,,,,,4.80,,1,G,30,IN,3,3,3,,,,
 ,,OF-1005-1,Unisex,Title,Default Title,,,,,,,,,,4.80,,1,G,30,IN,3,3,3,,,Offroad,X WDP
-Red AW,"<span>Pablo Red, der einzige Nikotinbeutel auf dem Markt mit gleichzeitig kühlender und brennender Wirkung! </span>",Red AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/PabloRedAW.png,,,,,5.20,0.00,1,G,28000,IN,3,3,3,,,,
-,,PA-2005-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,28000,IN,3,3,3,,,Pablo,Red AW
 Wintergreen Extreme WDP,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title""></div>
@@ -3126,6 +3124,8 @@ Wintergreen Extreme WDP,"<meta charset=""utf-8"">
 </div>
 </div>",Wintergreen Extreme WDP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/odens-wintergreen-white-dry-portion.png,,,,,4.80,,1,G,30,IN,3,3,3,,,,
 ,,OD-4005-1,Unisex,Title,Default Title,,,,,,,,,,4.80,,1,G,30,IN,3,3,3,,,Oden's,Wintergreen Extreme WDP
+Red AW,"<span>Pablo Red, der einzige Nikotinbeutel auf dem Markt mit gleichzeitig kühlender und brennender Wirkung! </span>",Red AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/PabloRedAW.png,,,,,5.20,0.00,1,G,28000,IN,3,3,3,,,,
+,,PA-2005-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,28000,IN,3,3,3,,,Pablo,Red AW
 White Fox Full Charge AW,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title"">
@@ -3225,6 +3225,16 @@ Black -80 Degrees WDP,"<meta charset=""utf-8"">
 </div>
 <div class=""item flex""></div>",Black -80 Degrees WDP,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/siberia-black-white-dry-portion.png,,,,,5.20,,1,G,30,IN,3,3,3,,,,
 ,,SI-4005-1,Unisex,Title,Default Title,,,,,,,,,,5.20,,1,G,30,IN,3,3,3,,,Siberia,Black -80 Degrees WDP
+Frosted WDP Slim,"<meta charset=""utf-8"">
+<div class=""item flex "">
+<div class=""title"">
+<div class=""info"">
+<p><span>Thunder Frosted Slim White Dry Portion ist ein kraftvoller Snus, wie die meisten der Thunder Serie. Im Slim Format liegt er angenehm unter der Lippe und als White Dry Portion rinnt er sehr wenig. Hergestellt wird dieser Snus von V2 in Dänemark.</span></p>
+</div>
+</div>
+</div>
+<div class=""item flex ""></div>",Frosted WDP Slim,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/thunder-frosted-slim-white-dry-portion.png,,,,,4.80,,1,G,30,IN,3,3,3,,,,
+,,TH-4005-1,Unisex,Title,Default Title,,,,,,,,,,4.80,,1,G,30,IN,3,3,3,,,Thunder,Frosted WDP Slim
 Groovy Grape AW,"<p data-mce-fragment=""1"">Auf aromatisierter Zellulosebasis und völlig frei von Tabak kommen auch die<span data-mce-fragment=""1""> VELO </span>Beutel im Slim Format. Ohne Tabak bedeutet ohne gewöhnungsbedürftigen Tabakgeruch sowie ohne jegliche Tabakschadstoffe - aktuell gibt es weltweit keine weniger schädliche Art, Nikotin zu konsumieren. All White Snus / Nicotine Pouches bietet sich deshalb vor allem Rauchern an, welche mit Rauchentwöhnung wie Nikotinpflaster, Nikotinkaugummi oder Nikotinspray nichts anfangen können.</p>
 <p data-mce-fragment=""1""> </p>
 <div data-mce-fragment=""1"" class=""info"">
@@ -3238,16 +3248,6 @@ Groovy Grape AW,"<p data-mce-fragment=""1"">Auf aromatisierter Zellulosebasis un
 </div>
 </div>",Groovy Grape AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/files/VELOGroovyGrape-sized.png,,,,,5.20,0.00,1,G,1,IN,3,3,3,,,,
 ,,VE-1415-1,Unisex,Title,Default Title,,,,,,,,,,5.20,0.00,1,G,1,IN,3,3,3,,,VELO (SE),Groovy Grape AW
-Frosted WDP Slim,"<meta charset=""utf-8"">
-<div class=""item flex "">
-<div class=""title"">
-<div class=""info"">
-<p><span>Thunder Frosted Slim White Dry Portion ist ein kraftvoller Snus, wie die meisten der Thunder Serie. Im Slim Format liegt er angenehm unter der Lippe und als White Dry Portion rinnt er sehr wenig. Hergestellt wird dieser Snus von V2 in Dänemark.</span></p>
-</div>
-</div>
-</div>
-<div class=""item flex ""></div>",Frosted WDP Slim,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/thunder-frosted-slim-white-dry-portion.png,,,,,4.80,,1,G,30,IN,3,3,3,,,,
-,,TH-4005-1,Unisex,Title,Default Title,,,,,,,,,,4.80,,1,G,30,IN,3,3,3,,,Thunder,Frosted WDP Slim
 X WDP Slim,"<meta charset=""utf-8"">
 <div class=""item flex "">
 <div class=""title"">
@@ -4091,6 +4091,8 @@ Crushed Ice OP,"<meta charset=""utf-8"">
 ,,NJ-2005-1,Unisex,Title,Default Title,,,,,,,,,,5.90,0.00,1,G,1,IN,3,3,3,,,Nick & Johnny,Crushed Ice OP
 Mint WP Slim,"Am Gipfel angekommen erstreckt sich vor dir das atemberaubende Bergpanorama der Schweizer Alpen. Zu deinen Füssen liegt ein unberührter Tiefschneehang. Nur ein kleiner Drop und das rauschende Gefühl von Freiheit und purer Lebensfreude durchzieht deinen ganzen Körper. Inspiriert von Momenten wie diesen, hat die Leaf Bakery an einer Rezeptur gefeilt, welche die Frische der Schweizer Bergluft mit einem Hauch von Minze kombiniert. Mit dem TRIFT Mint intensivierst Du jedes deiner ganz persönlichen Abenteuer! Enjoy the ride!",Mint WP Slim,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/products/1639499460844876_trift-mint-white-portion-slim.jpg,,,,,7.90,6.90,1,G,1,IN,3,3,3,,,,
 ,,TR-2005-1,Unisex,Title,Default Title,,,,,,,,,,7.90,6.90,1,G,1,IN,3,3,3,,,TRIFT,Mint WP Slim
+Mint-Menthol Slim (Punisher) AW,Royal Lifetsyle Cool Menthol Special Snus mit Minzaroma – Snus Special Menthol/Mint SLIM Super White,Mint-Menthol Slim (Punisher) AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/files/royal-lifestyle-menthol-mint-punisher-aw.png,,,,,5.90,0.00,1,G,32,IN,3,3,3,,,,
+,,RL-6010-1,Unisex,Title,Default Title,,,,,,,,,,5.90,0.00,1,G,32,IN,3,3,3,,,Royal Lifestyle,Mint-Menthol Slim (Punisher) AW
 XQS Mix,"<p>Du bist Dir nicht sicher welcher XQS der passende für Dich ist? Kein Problem - mit diesem Mixpack kannst Du Dich durch das XQS Sortiment probieren und dabei noch sparen!</p>
 <p><span>Entdecke den XQS Mix, das perfekte Produkt für alle, die auf der Suche nach frischen und spannenden Geschmäckern sind! Die Pouches sind in Schweden hergestellt und bieten 16 mg/g Nikotin, für ein intensives und erfüllendes Erlebnis.</span></p>
 <p><span>Hol Dir jetzt den XQS Mix und erlebe den perfekten Mix aus Geschmack und Nikotin! Sämtliche Produkte dieses Bundles sind frei von Tabak.</span></p>
@@ -4098,8 +4100,6 @@ XQS Mix,"<p>Du bist Dir nicht sicher welcher XQS der passende für Dich ist? Kei
 <p><em>1x <a href=""https://snushus.ch/collections/xqs/products/xqs-black-cherry-strong-aw"">XQS Black Cherry</a> </em><br><em>1x <a href=""https://snushus.ch/collections/xqs/products/blueberry-mint-strong-aw"">XQS Blueberry Mint</a></em><br><em>1x <a href=""https://snushus.ch/collections/xqs/products/xqs-orange-apple-strong-aw"">XQS Orange Apple</a></em><br><em>1x <a href=""https://snushus.ch/collections/xqs/products/xqs-tropical-strong-aw"">XQS Tropical</a></em><br><em>1x <a href=""https://snushus.ch/collections/xqs/products/xqs-twin-apple-strong-aw"">XQS Twin Apple</a></em></p>
 <p>Spare beim Kauf von diesem Bundle 29% auf den regulären Preis! <em class=""text-italic""><br></em>Hast Du den passenden XQS gefunden? Hier findest Du alle Produkte von<span> </span><a href=""https://snushus.ch/collections/xqs""><span style=""font-size: 0.875rem;"">XQS</span></a><span style=""font-size: 0.875rem;"">!</span></p>",XQS Mix,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/files/All-XQS-Mix.png,,,,,21.00,14.90,1,G,1,IN,3,3,3,,,,
 ,,MIX-XQ01,Unisex,Title,Default Title,,,,,,,,,,21.00,14.90,1,G,1,IN,3,3,3,,,XQS,XQS Mix
-Mint-Menthol Slim (Punisher) AW,Royal Lifetsyle Cool Menthol Special Snus mit Minzaroma – Snus Special Menthol/Mint SLIM Super White,Mint-Menthol Slim (Punisher) AW,Unisex,,,,,,,https://cdn.shopify.com/s/files/1/0072/0646/9679/files/royal-lifestyle-menthol-mint-punisher-aw.png,,,,,5.90,0.00,1,G,32,IN,3,3,3,,,,
-,,RL-6010-1,Unisex,Title,Default Title,,,,,,,,,,5.90,0.00,1,G,32,IN,3,3,3,,,Royal Lifestyle,Mint-Menthol Slim (Punisher) AW
 All White Fruit Mix,"<p>Probiere Dich quer durch die Vielfalt unserer fruchtigen All White Snus Sorten!</p>
 <p>Sämtliche Produkte dieses Bundles sind frei von Tabak und beinhalten einen Nikotingehalt zwischen 8 mg/g und 20 mg/g. <br>Dieser Hus Mix soll Dir die fruchtige Vielfalt der neusten Snuskategorie ""All White"" aufzeigen. Von Pfirsich, über Zitrus bis hin zu Beeren deckt dieses Pack alles ab.</p>
 <p>Dieses Bundle enthaltet:</p>
